@@ -1,0 +1,43 @@
+<section class="py-5">
+  <div class="container py-5">
+    <div class="row">
+      <div class="container mt-4">
+        <div class="alert alert-info" role="alert">
+          <h4 class="alert-heading">Note</h4>
+          <p>Please click on the customer's name to display the transactions graph for the selected customer</p>
+        </div>
+      </div>
+      <div class="d-flex justify-content-between">
+        <input  type="text" class="form-control mb-2 w-100" placeholder="Search by Transaction Amount"[(ngModel)]="AmountSearch">
+      </div>
+
+
+
+
+      <div class="py-5 cursor-pointer" *ngIf="Transactions "> 
+        <table class="table table-bordered table-striped text-center">
+          <thead>
+            <tr>
+              <th scope="col" class="py-3 fw-bold">Id</th>
+              <th scope="col" class="py-3 fw-bold">Name</th>
+              <th scope="col" class="py-3 fw-bold">Transaction Amount</th>
+              <th scope="col" class="py-3 fw-bold">Transaction Date</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let Transaction of Transactions | searchByAmount : AmountSearch!=null?AmountSearch:0"> 
+              <td>{{ Transaction.id }}</td>
+              <td>
+              <a [routerLink]="['/graph',Transaction.customer_id]">
+              {{ getCustomerName(Transaction.customer_id) }}
+            </a>
+            </td>
+              <td>{{ Transaction.amount }}</td>
+              <td>{{ Transaction.date | date }}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,39 @@
+.myNav {
+    z-index: 999;
+    background-color:rgb(129,177,206);
+    transition: background-color 1s;
+}
+
+.myScrollNav {
+    z-index: 999;
+    background-color: rgba(129,177,206, 0.5);
+    transition: background-color 1s;
+}
+
+.nav-link {
+    transition: color 1s;
+}
+
+a:hover {
+    color: #0049c6;
+
+}
+
+.dropdown-item {
+    cursor: pointer;
+    transition: background-color 1s;
+}
+
+.dropdown-item:hover {
+    background-color: darkgray;
+}
+
+
+.navbar-brand {
+    font-size: 20px;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+

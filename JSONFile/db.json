@@ -1,0 +1,748 @@
+{
+    "customers": [
+
+        {
+            "id": "1",
+            "name": "Ahmed Ali"
+        },
+        {
+            "id": "2",
+            "name": "Aya Elsayed"
+        },
+        {
+            "id": "3",
+            "name": "Mina Adel"
+        },
+        {
+            "id": "4",
+            "name": "Sarah Reda"
+        },
+        {
+            "id": "5",
+            "name": "Mohamed Sayed"
+        },
+        {
+            "id": "6",
+            "name": "John Doe"
+        },
+        {
+            "id": "7",
+            "name": "Jane Smith"
+        },
+        {
+            "id": "8",
+            "name": "Michael Johnson"
+        },
+        {
+            "id": "9",
+            "name": "Emily Davis"
+        },
+        {
+            "id": "10",
+            "name": "Chris Brown"
+        },
+        {
+            "id": "11",
+            "name": "Jessica Wilson"
+        },
+        {
+            "id": "12",
+            "name": "David Martinez"
+        },
+        {
+            "id": "13",
+            "name": "Sarah Taylor"
+        },
+        {
+            "id": "14",
+            "name": "Daniel Anderson"
+        },
+        {
+            "id": "15",
+            "name": "Laura Thomas"
+        },
+        {
+            "id": "16",
+            "name": "James Jackson"
+        },
+        {
+            "id": "17",
+            "name": "Samantha White"
+        },
+        {
+            "id": "18",
+            "name": "Joshua Harris"
+        },
+        {
+            "id": "19",
+            "name": "Megan Martin"
+        },
+        {
+            "id": "20",
+            "name": "Andrew Thompson"
+        },
+        {
+            "id": "21",
+            "name": "Olivia Garcia"
+        },
+        {
+            "id": "22",
+            "name": "Ethan Robinson"
+        },
+        {
+            "id": "23",
+            "name": "Emma Clark"
+        },
+        {
+            "id": "24",
+            "name": "Benjamin Rodriguez"
+        },
+        {
+            "id": "25",
+            "name": "Sophia Lewis"
+        },
+        {
+            "id": "26",
+            "name": "Alexander Lee"
+        },
+        {
+            "id": "27",
+            "name": "Isabella Walker"
+        },
+        {
+            "id": "28",
+            "name": "Michael Hall"
+        },
+        {
+            "id": "29",
+            "name": "Mia Allen"
+        },
+        {
+            "id": "30",
+            "name": "Ava Young"
+        },
+        {
+            "id": "31",
+            "name": "Lucas Hernandez"
+        },
+        {
+            "id": "32",
+            "name": "Ella King"
+        },
+        {
+            "id": "33",
+            "name": "Mason Wright"
+        },
+        {
+            "id": "34",
+            "name": "Aria Scott"
+        },
+        {
+            "id": "35",
+            "name": "Liam Green"
+        },
+        {
+            "id": "36",
+            "name": "Grace Adams"
+        },
+        {
+            "id": "37",
+            "name": "Noah Baker"
+        },
+        {
+            "id": "38",
+            "name": "Chloe Gonzalez"
+        },
+        {
+            "id": "39",
+            "name": "Elijah Perez"
+        },
+        {
+            "id": "40",
+            "name": "Amelia Carter"
+        },
+        {
+            "id": "41",
+            "name": "Logan Ramirez"
+        },
+        {
+            "id": "42",
+            "name": "Abigail Mitchell"
+        },
+        {
+            "id": "43",
+            "name": "Aiden Campbell"
+        },
+        {
+            "id": "44",
+            "name": "Lily Roberts"
+        },
+        {
+            "id": "45",
+            "name": "Oliver Murphy"
+        },
+        {
+            "id": "46",
+            "name": "Victoria Hernandez"
+        },
+        {
+            "id": "47",
+            "name": "Jayden Hughes"
+        },
+        {
+            "id": "48",
+            "name": "Scarlett Flores"
+        },
+        {
+            "id": "49",
+            "name": "Gabriel Ward"
+        },
+        {
+            "id": "50",
+            "name": "Hannah Diaz"
+        },
+        {
+            "id": "51",
+            "name": "David Ramirez"
+        },
+        {
+            "id": "52",
+            "name": "Luna Cooper"
+        },
+        {
+            "id": "53",
+            "name": "Jackson Howard"
+        },
+        {
+            "id": "54",
+            "name": "Mila Cox"
+        },
+        {
+            "id": "55",
+            "name": "Henry Morgan"
+        },
+        {
+            "id": "56",
+            "name": "Addison Bell"
+        },
+        {
+            "id": "57",
+            "name": "Sebastian Rivera"
+        },
+        {
+            "id": "58",
+            "name": "Zoe Butler"
+        },
+        {
+            "id": "59",
+            "name": "Leo Ward"
+        },
+        {
+            "id": "60",
+            "name": "Natalie Martinez"
+        },
+        {
+            "id": "61",
+            "name": "Anthony Watson"
+        },
+        {
+            "id": "62",
+            "name": "Savannah Reed"
+        },
+        {
+            "id": "63",
+            "name": "Isaac Long"
+        },
+        {
+            "id": "64",
+            "name": "Eleanor Bailey"
+        },
+        {
+            "id": "65",
+            "name": "Dylan Patterson"
+        },
+        {
+            "id": "66",
+            "name": "Hazel Fisher"
+        },
+        {
+            "id": "67",
+            "name": "Wyatt Ross"
+        },
+        {
+            "id": "68",
+            "name": "Violet Price"
+        },
+        {
+            "id": "69",
+            "name": "Jack Bennett"
+        },
+        {
+            "id": "70",
+            "name": "Penelope Brooks"
+        },
+        {
+            "id": "71",
+            "name": "Luke Gray"
+        },
+        {
+            "id": "72",
+            "name": "Aurora Hayes"
+        },
+        {
+            "id": "73",
+            "name": "Matthew Hughes"
+        },
+        {
+            "id": "74",
+            "name": "Stella Jenkins"
+        },
+        {
+            "id": "75",
+            "name": "Joseph Perry"
+        },
+        {
+            "id": "76",
+            "name": "Riley Coleman"
+        },
+        {
+            "id": "77",
+            "name": "Levi Powell"
+        },
+        {
+            "id": "78",
+            "name": "Bella Hughes"
+        },
+        {
+            "id": "79",
+            "name": "Nolan Sanders"
+        },
+        {
+            "id": "80",
+            "name": "Avery Myers"
+        },
+        {
+            "id": "81",
+            "name": "Christian Rivera"
+        },
+        {
+            "id": "82",
+            "name": "Lucy Collins"
+        },
+        {
+            "id": "83",
+            "name": "Hunter Reed"
+        },
+        {
+            "id": "84",
+            "name": "Ruby Edwards"
+        },
+        {
+            "id": "85",
+            "name": "Eli Cooper"
+        },
+        {
+            "id": "86",
+            "name": "Lillian Bailey"
+        },
+        {
+            "id": "87",
+            "name": "Isaiah Hernandez"
+        },
+        {
+            "id": "88",
+            "name": "Grace Johnson"
+        },
+        {
+            "id": "89",
+            "name": "Nathaniel Turner"
+        },
+        {
+            "id": "90",
+            "name": "Elena Scott"
+        },
+        {
+            "id": "91",
+            "name": "Dominic Rivera"
+        },
+        {
+            "id": "92",
+            "name": "Maya Morris"
+        },
+        {
+            "id": "93",
+            "name": "Aaron Sanders"
+        },
+        {
+            "id": "94",
+            "name": "Piper Morris"
+        },
+        {
+            "id": "95",
+            "name": "Connor Cook"
+        },
+        {
+            "id": "96",
+            "name": "Audrey Bryant"
+        },
+        {
+            "id": "97",
+            "name": "Adrian Foster"
+        },
+        {
+            "id": "98",
+            "name": "Brooklyn Stewart"
+        },
+        {
+            "id": "99",
+            "name": "Cameron Coleman"
+        },
+        {
+            "id": "100",
+            "name": "Kennedy Lee"
+        },
+        {
+            "id": "101",
+            "name": "Ezekiel Parker"
+        },
+        {
+            "id": "102",
+            "name": "Madeline Price"
+        }
+    ],
+
+
+
+    "transactions": [
+        {
+            "id": "1",
+            "customer_id": 1,
+            "date": "2022-01-01",
+            "amount": 1000
+        },
+        {
+            "id": "2",
+            "customer_id": 1,
+            "date": "2022-01-02",
+            "amount": 2000
+        },
+        {
+            "id": "3",
+            "customer_id": 2,
+            "date": "2022-01-01",
+            "amount": 550
+        },
+        {
+            "id": "4",
+            "customer_id": 3,
+            "date": "2022-01-01",
+            "amount": 500
+        },
+        {
+            "id": "5",
+            "customer_id": 2,
+            "date": "2022-01-02",
+            "amount": 1300
+        },
+        {
+            "id": "6",
+            "customer_id": 4,
+            "date": "2022-01-01",
+            "amount": 750
+        },
+        {
+            "id": "7",
+            "customer_id": 3,
+            "date": "2022-01-02",
+            "amount": 1250
+        },
+        {
+            "id": "8",
+            "customer_id": 5,
+            "date": "2022-01-01",
+            "amount": 2500
+        },
+        {
+            "id": "9",
+            "customer_id": 5,
+            "date": "2022-01-02",
+            "amount": 875
+        },
+        {
+            "id": "10",
+            "customer_id": 6,
+            "date": "2022-01-01",
+            "amount": 650
+        },
+        {
+            "id": "11",
+            "customer_id": 7,
+            "date": "2022-01-02",
+            "amount": 800
+        },
+        {
+            "id": "12",
+            "customer_id": 8,
+            "date": "2022-01-01",
+            "amount": 950
+        },
+        {
+            "id": "13",
+            "customer_id": 9,
+            "date": "2022-01-01",
+            "amount": 700
+        },
+        {
+            "id": "14",
+            "customer_id": 10,
+            "date": "2022-01-02",
+            "amount": 1100
+        },
+        {
+            "id": "15",
+            "customer_id": 11,
+            "date": "2022-01-01",
+            "amount": 850
+        },
+        {
+            "id": "16",
+            "customer_id": 12,
+            "date": "2022-01-02",
+            "amount": 1200
+        },
+        {
+            "id": "17",
+            "customer_id": 13,
+            "date": "2022-01-01",
+            "amount": 600
+        },
+        {
+            "id": "18",
+            "customer_id": 14,
+            "date": "2022-01-01",
+            "amount": 1400
+        },
+        {
+            "id": "19",
+            "customer_id": 15,
+            "date": "2022-01-02",
+            "amount": 900
+        },
+        {
+            "id": "20",
+            "customer_id": 16,
+            "date": "2022-01-01",
+            "amount": 1300
+        },
+        {
+            "id": "21",
+            "customer_id": 17,
+            "date": "2022-01-02",
+            "amount": 750
+        },
+        {
+            "id": "22",
+            "customer_id": 18,
+            "date": "2022-01-01",
+            "amount": 1100
+        },
+        {
+            "id": "23",
+            "customer_id": 19,
+            "date": "2022-01-01",
+            "amount": 950
+        },
+        {
+            "id": "24",
+            "customer_id": 20,
+            "date": "2022-01-02",
+            "amount": 850
+        },
+        {
+            "id": "25",
+            "customer_id": 21,
+            "date": "2022-01-01",
+            "amount": 1000
+        },
+        {
+            "id": "26",
+            "customer_id": 22,
+            "date": "2022-01-02",
+            "amount": 1200
+        },
+        {
+            "id": "27",
+            "customer_id": 23,
+            "date": "2022-01-01",
+            "amount": 650
+        },
+        {
+            "id": "28",
+            "customer_id": 24,
+            "date": "2022-01-01",
+            "amount": 1350
+        },
+        {
+            "id": "29",
+            "customer_id": 25,
+            "date": "2022-01-02",
+            "amount": 750
+        },
+        {
+            "id": "30",
+            "customer_id": 26,
+            "date": "2022-01-01",
+            "amount": 1250
+        },
+        {
+            "id": "31",
+            "customer_id": 27,
+            "date": "2022-01-02",
+            "amount": 850
+        },
+        {
+            "id": "32",
+            "customer_id": 28,
+            "date": "2022-01-01",
+            "amount": 1400
+        },
+        {
+            "id": "33",
+            "customer_id": 29,
+            "date": "2022-01-01",
+            "amount": 900
+        },
+        {
+            "id": "34",
+            "customer_id": 30,
+            "date": "2022-01-02",
+            "amount": 1300
+        },
+        {
+            "id": "35",
+            "customer_id": 31,
+            "date": "2022-01-01",
+            "amount": 700
+        },
+        {
+            "id": "36",
+            "customer_id": 32,
+            "date": "2022-01-01",
+            "amount": 1250
+        },
+        {
+            "id": "37",
+            "customer_id": 33,
+            "date": "2022-01-02",
+            "amount": 750
+        },
+        {
+            "id": "38",
+            "customer_id": 34,
+            "date": "2022-01-01",
+            "amount": 1350
+        },
+        {
+            "id": "39",
+            "customer_id": 35,
+            "date": "2022-01-01",
+            "amount": 900
+        },
+        {
+            "id": "40",
+            "customer_id": 36,
+            "date": "2022-01-02",
+            "amount": 1150
+        },
+        {
+            "id": "41",
+            "customer_id": 37,
+            "date": "2022-01-01",
+            "amount": 1050
+        },
+        {
+            "id": "42",
+            "customer_id": 38,
+            "date": "2022-01-01",
+            "amount": 1250
+        },
+        {
+            "id": "43",
+            "customer_id": 39,
+            "date": "2022-01-02",
+            "amount": 900
+        },
+        {
+            "id": "44",
+            "customer_id": 40,
+            "date": "2022-01-01",
+            "amount": 1100
+        },
+        {
+            "id": "45",
+            "customer_id": 41,
+            "date": "2022-01-01",
+            "amount": 950
+        },
+        {
+            "id": "46",
+            "customer_id": 42,
+            "date": "2022-01-02",
+            "amount": 850
+        },
+        {
+            "id": "47",
+            "customer_id": 43,
+            "date": "2022-01-01",
+            "amount": 1000
+        },
+        {
+            "id": "48",
+            "customer_id": 44,
+            "date": "2022-01-01",
+            "amount": 1200
+        },
+        {
+            "id": "49",
+            "customer_id": 45,
+            "date": "2022-01-02",
+            "amount": 650
+        },
+        {
+            "id": "50",
+            "customer_id": 46,
+            "date": "2022-01-01",
+            "amount": 1350
+        },
+        {
+            "id": "51",
+            "customer_id": 47,
+            "date": "2022-01-01",
+            "amount": 700
+        },
+        {
+            "id": "52",
+            "customer_id": 48,
+            "date": "2022-01-02",
+            "amount": 850
+        },
+        {
+            "id": "53",
+            "customer_id": 1,
+            "date": "2023-01-15",
+            "amount": 1000
+        },
+        {
+            "id": "54",
+            "customer_id": 1,
+            "date": "2023-02-11",
+            "amount": 100
+        },
+        {
+            "id": "55",
+            "customer_id": 1,
+            "date": "2023-03-11",
+            "amount": 3000
+        }
+    ]
+    }
